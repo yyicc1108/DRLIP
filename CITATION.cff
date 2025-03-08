@@ -1,0 +1,21 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Li
+    given-names: Tianyang
+    orcid: https://orcid.org/0000-0003-0219-7321
+  - family-names: Meng
+    given-names: Ying
+    orcid: https://orcid.org/0000-0002-9504-3745
+  - family-names: Tang
+    given-names: Lixin
+    orcid: https://orcid.org/0000-0002-9950-5169
+  - family-names: Zhang
+    given-names: Yuxuan
+    orcid: https://orcid.org/0009-0004-0480-9621
+title: "Deep Reinforcement Learning with Integer Optimization for Dynamic Slab Assignment Problem"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14991989
+date-released: 2025-03-08
