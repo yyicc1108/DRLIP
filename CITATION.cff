@@ -13,7 +13,7 @@ authors:
   - family-names: Zhang
     given-names: Yuxuan
     orcid: https://orcid.org/0009-0004-0480-9621
-title: "Deep Reinforcement Learning with Integer Optimization for Dynamic Slab Assignment Problem"
+title: "Source Code and Supplementary Material of DRLIP"
 version: 1.0.0
 identifiers:
   - type: doi
